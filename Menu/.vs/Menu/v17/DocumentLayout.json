@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|c:\\users\\g.salia\\source\\repos\\gs\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09D10787-B0CA-408B-B056-227D6E0D3302}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:17:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\Menu.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeToolTip": "Menu\\Controllers\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:13:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\appsettings.json",
+              "RelativeDocumentMoniker": "Menu\\appsettings.json",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\appsettings.json",
+              "RelativeToolTip": "Menu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T12:33:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:04:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Menu\\Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Menu\\Data\\MenuContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:05:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DishIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\DishIngredient.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "RelativeToolTip": "Menu\\Models\\DishIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:59:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Menu\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:58:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\g.salia\\source\\repos\\GS\\Menu\\Menu\\Models\\Dish.cs",
+              "RelativeToolTip": "Menu\\Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:56:30.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

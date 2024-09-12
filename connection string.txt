@@ -1,0 +1,10 @@
+Server=(LocalDB)\MSSQLLocalDB;Database=DB1;Trusted_Connection=True;
+Server=(LocalDB)\MSSQLLocalDB;Database=DB1;Trusted_Connection=True;Encrypt=False;TrustServerCertificate=True;
+
+
+Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=Menu_Database;Integrated Security=True;Pooling=False;Encrypt=False;Trust Server Certificate=True
+
+
+
+https://gourmetkitchen.ie/wp-content/uploads/2023/10/R-1-1.jpeg
+https://therecipecritic.com/wp-content/uploads/2022/12/salami_pizza-1.jpg
